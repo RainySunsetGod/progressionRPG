@@ -1,0 +1,18 @@
+[
+  {
+    "id": "curse_of_decay",
+    "name": "Curse of Decay",
+    "tags": ["poison", "bane", "rot"],
+    "rarity": "uncommon",
+    "duration": { "type": "timed", "turns": 30 },
+    "source": ["hex", "artifact", "boss"],
+    "effects": [
+      { "type": "stat", "path": "resources.hp_regeneration", "op": "add", "value": -2 },
+      { "type": "resistance", "element": "poison", "op": "add", "value": -0.25 }
+    ],
+    "immunities": [],
+    "applies": [
+      { "affliction": "poisoned", "chance": 0.25, "on": "turn_start" }
+    ]
+  }
+]

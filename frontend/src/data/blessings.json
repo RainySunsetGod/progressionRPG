@@ -1,0 +1,17 @@
+[
+  {
+    "id": "blessing_of_flame",
+    "name": "Blessing of Flame",
+    "tags": ["elemental", "fire", "boon"],
+    "rarity": "rare",
+    "duration": { "type": "permanent" }, 
+    "source": ["deity", "ritual", "relic"],
+    "effects": [
+      { "type": "stat", "path": "offense.magic", "op": "add", "value": 5 },
+      { "type": "elemental_affinity", "element": "fire", "op": "mul", "value": 1.15 },
+      { "type": "resistance", "element": "ice", "op": "add", "value": -0.1 } 
+    ],
+    "immunities": ["burn"],
+    "applies": []
+  }
+]

@@ -1,0 +1,51 @@
+{
+    "core": [
+        "strength",
+        "dexterity",
+        "endurance",
+        "intelligence",
+        "wisdom",
+        "charisma",
+        "luck"
+    ],
+    "offense": [
+        "attack",
+        "magic",
+        "crit_chance",
+        "crit_multiplier"
+    ],
+    "defense": [
+        "armor",
+        "resistance",
+        "evasion"
+    ],
+    "resources": [
+        "max_hp",
+        "max_mana",
+        "life_steal",
+        "hp_regeneration",
+        "mana_regeneration"
+    ],
+    "speed": [
+        "action_speed",
+        "move_speed"
+    ],
+    "elementalStats": [
+        "damage",
+        "resistance",
+        "affinity"
+    ],
+    "afflictions": [
+        "burn",
+        "frozen",
+        "frostbite",
+        "shocked",
+        "poisoned",
+        "diseased",
+        "stunned",
+        "silenced",
+        "dazed",
+        "blinded",
+        "weakened"
+    ]
+}

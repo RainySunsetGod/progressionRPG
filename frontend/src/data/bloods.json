@@ -1,0 +1,10 @@
+{
+  "common": [
+    { "name": "Draconic Blood", "description": "Inherited strength of dragons.", "traits": ["Fire Resistance", "Pride"], "bonus": { "attack": 10, "hp": 20 } },
+    { "name": "Vampiric Blood", "description": "Tainted yet powerful vitality.", "traits": ["Regeneration", "Bloodthirst"], "bonus": { "lifesteal": 5 } }
+  ],
+  "rare": [
+    { "name": "Celestial Blood", "description": "Blessing of the heavens.", "traits": ["Light Affinity"], "bonus": { "magicAmp": 15 } },
+    { "name": "Abyssal Blood", "description": "Dark essence flows within.", "traits": ["Shadow Affinity"], "bonus": { "magicAmp": 15, "corruption": 5 } }
+  ]
+}
