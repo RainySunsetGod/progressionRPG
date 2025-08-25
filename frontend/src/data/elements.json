@@ -1,10 +1,14 @@
-{
-    "elements": [
-        "fire",
-        "ice",
-        "lightning",
-        "poison",
-        "holy",
-        "shadow"
-    ]
-}
+[
+  "fire",
+  "ice",
+  "lightning",
+  "wind",
+  "earth",
+  "water",
+  "darkness",
+  "holy",
+  "poison",
+  "metal",
+  "void",
+  "astral"
+]

@@ -1,0 +1,15 @@
+{
+    "afflictions": [
+        "burn",
+        "frozen",
+        "frostbite",
+        "shocked",
+        "poisoned",
+        "diseased",
+        "stunned",
+        "silenced",
+        "dazed",
+        "blinded",
+        "weakened"
+    ]
+}
